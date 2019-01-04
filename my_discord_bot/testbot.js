@@ -33,6 +33,6 @@ client.on('message', (receivedMessage) => {
 // Get your bot's secret token from:
 // https://discordapp.com/developers/applications/
 // Click on your application -> Bot -> Token -> "Click to Reveal Token"
-bot_secret_token = "NDg5Nzc3MDA4ODI2NjQ2NTI4.Dn0ydQ.NEeksLPVgMCGQ8Ln5HxRn0fex7Q"
+bot_secret_token = ""
 
 client.login(bot_secret_token)
